@@ -30,4 +30,3 @@ So I'll be happy to share some of my work with you.
 ## How to Reach me 
 - Email: aryan.hd09@gmail.com
 - Github: [@AryanHadia](https://github.com/AryanHadia)
-- Telegram: [@arhahdhd](https://t.me/arhahdhd)
