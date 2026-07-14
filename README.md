@@ -21,11 +21,13 @@ So I'll be happy to share some of my work with you.
 
 **Robotics:**
 - Color_Follower(shapes can be selected)
+- Visual assistant (QRcode scanning / face detector / object detector)
 
 ## What I'm working on
 - Learning (OpenCV)
 - Improving Python_Robotics codes
 - QR code scanner
+- Working on visual assistant
 
 ## How to Reach me 
 - Email: aryan.hd09@gmail.com
